@@ -7,11 +7,9 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Have a good day!<br><br>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/levinhky)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
-![Follower]( https://img.shields.io/github/followers/levinhky.svg?style=social&label=Follow&maxAge=2592000)
-	 
+<br><p align="center">REACH ME!<br><br>
+Email: leky.developer@gmail.com
+Phone: (+84)963284451
 </p>
   </td>
   </table>
