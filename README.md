@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Docker
+- 🌱 &nbsp;I’m currently learning React Native
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/PHP or NextJS/ReactJS/Magento
 - 👨‍💻 &nbsp;Read more about my projects at [levinhky](https://levinhky.github.io/portfolio/)
 - ⚡ &nbsp;Fun fact: I :heart: you
