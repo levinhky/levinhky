@@ -3,9 +3,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Docker
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/PHP or NextJS/ReactJS/Magento
+- 💬 &nbsp;Ask me about anything related to React
 - 👨‍💻 &nbsp;Read more about my projects at [levinhky](https://levinhky.github.io/portfolio/)
-- ⚡ &nbsp;Fun fact: I :heart: you
+- ⚡ &nbsp;Fun fact: I'm 2002
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
