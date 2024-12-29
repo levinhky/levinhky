@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🎓 &nbsp; Studying Software Technology at FPT Polytechnic HCM City.
+- 💼 &nbsp; React native developer and front-end web developer based in ReactJS and NextJS.
+- ✍️ &nbsp; Watching films and esports. Shall we play a game of chess and see who's better?.
+- 🗣️ &nbsp; A rose by any other name would smell as sweet.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; ReactJs | NextJs | NestJS | JavaScript | TypeScript | RESTful api | Graphql
+- 🖍️ &nbsp; Tailwind CSS | SCSS
+- 📱 &nbsp; React Native
+- 🔧 &nbsp; Android Studio | Visual Studio Code | Git
+- 🖥 &nbsp; Jira | Trello | Figma | Photoshop
 
 - 📫 How to reach me **leky.developer@gmail.com**
 
