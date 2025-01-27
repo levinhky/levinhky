@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ReactJs | NextJs | NestJS | JavaScript | TypeScript | RESTful api | Graphql
+- 💻 &nbsp; ReactJs | NextJs| JavaScript | TypeScript | RESTful api | Graphql
 - 🖍️ &nbsp; Tailwind CSS | SCSS
 - 📱 &nbsp; React Native
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git
