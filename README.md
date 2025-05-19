@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Software Technology at FPT Polytechnic HCM City.
+- 🎓 &nbsp; Graduated Software Technology at FPT Polytechnic HCM City.
 - 💼 &nbsp; React native developer and front-end web developer based in ReactJS and NextJS.
 - ✍️ &nbsp; Watching films and esports. Green Book is my favourite movie.
 - 🗣️ &nbsp; A rose by any other name would smell as sweet.
